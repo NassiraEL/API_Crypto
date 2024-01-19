@@ -93,5 +93,5 @@ if(localStorage.length>0){
 time += 5;
  }
 
-
+// time = 5 => 1 minute
 setInterval(update, 60000)
